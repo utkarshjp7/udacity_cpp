@@ -1,3 +1,11 @@
+*.swp
+*.osm
+draw.cpp
+test.cpp
+build/
+bin/
+lib/
+
 # Prerequisites
 *.d
 
